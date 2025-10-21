@@ -2,7 +2,7 @@
   "name": "react-capitalize-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/react-capitalize-app",
+  "homepage": "https://tonigi.github.io/react-test/",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^18.0.0",
